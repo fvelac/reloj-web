@@ -1,3 +1,6 @@
+//Author = https://github.com/fvelac
+//Inspired by https://github.com/talamantesvictor
+
 function currentTime(){
     let date = new Date();
     let hh = date.getHours();

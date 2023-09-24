@@ -5,7 +5,7 @@ body {
     display: grid;
     place-items: center;
     overflow: hidden;
-    background: black;
+    background: white;
 }
 
 #watch {
@@ -14,8 +14,8 @@ body {
     justify-content: center;
     width: 200px;
     height: 200px;
-    border: 2px solid cyan;
-    color: cyan;
+    border: 2px solid green;
+    color: green;
     border-radius: 50%;
     font-family: monospace;
     font-size: 1.7rem;
